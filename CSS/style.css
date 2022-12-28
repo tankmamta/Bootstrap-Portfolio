@@ -1,0 +1,18 @@
+/* body {
+    background-color: black;
+    color: blanchedalmond;
+} */
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  color: black;
+  background-color: aqua;
+  padding: 20px 20px 20px 20px;
+}
+
+.cardprojects {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
